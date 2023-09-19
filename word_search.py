@@ -1,4 +1,4 @@
-c"""
+"""
     File: word_search.py
     Author: Nees Abusaada
     Purpose: This program will read a file provided by the user.
